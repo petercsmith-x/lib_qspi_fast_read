@@ -1,6 +1,11 @@
 lib_qspi_fast_read change log
 =============================
 
+1.0.3
+-----
+
+    * FIXED: Removed flash info from .xn files due to tools SFDP integration.
+
 1.0.2
 -----
 
